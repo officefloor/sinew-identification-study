@@ -11,6 +11,17 @@ complexity concentrating into god classes and methods**, as identified by the co
 harms, coupling divergence, the accumulation-versus-delegation signature, the OfficeFloor and DI
 claims, exploratory observations and the draft hypotheses.
 
+> **Status (16 November 2026): CLOSED, absorbed by the
+> [placement-gravity study](https://github.com/officefloor/placement-gravity-study).** The
+> complexity-concentration study has finished, and the divergence study found that weighting
+> complexity by coupling divergence does not separate god methods. The restated sinew, data
+> coupled to the control flow, is what placement-gravity's **ties** measure: the pre-existing data
+> a new problem's code has to use, at the commit where that code is placed. There the question is
+> no longer whether sinews mark god units, a judgement of the solution's shape, but whether ties
+> force placement and whether forced placement is followed by tangling, with the problem held
+> fixed. No hypothesis of this study was registered or tested. The harness and its miner are kept
+> as they stood.
+
 > **Status (19 October 2026): on hold.** The complexity-concentration study is still underway.
 > Its results so far are positive but include many false positives, and sinews may be the means
 > to remove them. This study will be taken up again if those results warrant it. The rest of this README documents the harness as built, which
